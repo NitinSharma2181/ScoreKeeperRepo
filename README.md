@@ -1,4 +1,4 @@
-# Project Title
+# Score Keeper Mobile Application
 
 One Paragraph of the project description
 
