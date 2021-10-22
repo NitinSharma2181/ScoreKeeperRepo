@@ -1,21 +1,22 @@
 # Score Keeper Mobile Application
 
-One Paragraph of the project description
+This is a "Score Keeper Mobile Application" Android project to show some of the widgets provided in Android Studio. Project shows how to implement these views in java. This is a scorekeeper app that uses following widgets: ScrollView, LinearLayout, TextView, Button, Switch, RadioGroup, RadioButton.
 
 Initially appeared on
 [gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2). But the page cannot open anymore so that is why I have moved it here.
 
 ## Getting Started
 
-These instructions will give you a copy of the project up and running on
-your local machine for development and testing purposes. See deployment
-for notes on deploying the project on a live system.
+First, clone the repo: git clone https://github.com/ParwinderDeepKaur/JAV1001-Lab4.git
+Open Android Studio and select 'Open an existing Android Studio Project'
+Navigate to checked out repository.
+Select the JAV1001-Lab4 project from downloaded location.
+Run the application.
 
 ### Prerequisites
 
 Requirements for the software and other tools to build, test and push 
-- [Example 1](https://www.example.com)
-- [Example 2](https://www.example.com)
+- Android Studio & Emulator or Android Device
 
 ### Installing
 
@@ -33,15 +34,13 @@ And repeat
 End with an example of getting some data out of the system or using it
 for a little demo
 
-## Running the tests
+## Running the App
 
-Explain how to run the automated tests for this system
+Connect an Android device to your development machine or choose the emulator. Android Studio Select Run -> Run 'app' (or Debug 'app') from the menu bar Select the device/emulator you wish to run the app on and click 'OK'
 
-### Sample Tests
+### Using the app
 
-Explain what these tests test and why
-
-    Give an example
+You can choose the team to mark score with toggle button. Click on plus, minus button to increase, decrease scores respectively by score values given in form of Radio Button. Check the screenshot: Screenshot_20211021_154045.png
 
 ### Style test
 
