@@ -2,9 +2,6 @@
 
 This is a "Score Keeper Mobile Application" Android project to show some of the widgets provided in Android Studio. Project shows how to implement these views in java. This is a scorekeeper app that uses following widgets: ScrollView, LinearLayout, TextView, Button, Switch, RadioGroup, RadioButton.
 
-Initially appeared on
-[gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2). But the page cannot open anymore so that is why I have moved it here.
-
 ## Getting Started
 First clone https://github.com/NitinSharma2181/ScoreKeeperRepo.git
 Open Android Studio and select 'Open an existing Android Studio Project'
@@ -39,7 +36,7 @@ Connect an Android device to your development machine or choose the emulator. An
 
 ### Using the app
 
-You can choose the team to mark score with toggle button. Click on plus, minus button to increase, decrease scores respectively by score values given in form of Radio Button. Check the screenshot: Screenshot_20211021_154045.png
+You can choose the team to mark score with toggle button. Click on plus, minus button to increase, decrease scores respectively by score values given in form of Radio Button. Check the screenshot: Screenshot_Nitin's_Badminton ScoreKeeper.jpg
 
 ### Style test
 
