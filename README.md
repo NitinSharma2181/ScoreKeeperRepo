@@ -6,11 +6,10 @@ Initially appeared on
 [gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2). But the page cannot open anymore so that is why I have moved it here.
 
 ## Getting Started
-
-First, clone the repo: git clone https://github.com/ParwinderDeepKaur/JAV1001-Lab4.git
+First clone https://github.com/NitinSharma2181/ScoreKeeperRepo.git
 Open Android Studio and select 'Open an existing Android Studio Project'
 Navigate to checked out repository.
-Select the JAV1001-Lab4 project from downloaded location.
+Select the "Score Keeper" project from downloaded location.
 Run the application.
 
 ### Prerequisites
