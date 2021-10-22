@@ -24,7 +24,7 @@ Connect an Android device to your development machine or choose the emulator. An
 
 ### Using the app
 
-You can choose the team to mark score with toggle button. Click on plus, minus button to increase, decrease scores respectively by score values given in form of Radio Button. Check the screenshot: Screenshot_Nitin's_Badminton ScoreKeeper.jpg
+You can choose the team to mark score with toggle button. Click on plus, minus button to increase, decrease scores respectively by score values given in form of Radio Button. Check the screenshot: https://github.com/NitinSharma2181/ScoreKeeperRepo/blob/565715e69aa423754002af7888cc855733793794/Screenshot_Nitin's_Badminton%20ScoreKeeper.jpg
 
 ### Style test
 
