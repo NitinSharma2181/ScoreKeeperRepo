@@ -1,3 +1,18 @@
 <resources>
-    <string name="app_name">My First Application</string>
+    <string name="app_name">ScoreKeeper</string>
+    <string name="badminton_score_keeper">Badminton Score Keeper</string>
+    <string name="india">India</string>
+    <string name="uk">UK</string>
+    <string name="vs">Vs</string>
+    <string name="zeroValueInd">0</string>
+    <string name="zeroValueUk">0</string>
+    <string name="increases_scoreInd">Increases Score</string>
+    <string name="decreases_scoreInd">Decreases Score</string>
+    <string name="increases_scoreUk">Increases Score</string>
+    <string name="decreases_scoreUk">Decreases Score</string>
+    <string name="select_an_amount_below_to_change_the_score_by">Select an amount below to change the score by</string>
+    <string name="zeroValueRadio">0</string>
+    <string name="fiveValueRadio">5</string>
+    <string name="tenValueRadio">10</string>
+    <string name="fifteenValueRadio">15</string>
 </resources>
